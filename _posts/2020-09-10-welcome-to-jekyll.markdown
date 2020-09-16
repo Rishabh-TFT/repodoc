@@ -4,10 +4,11 @@ title:  "Welcome to Jekyll!"
 date:   2020-09-10 13:50:04 +0530
 categories: jekyll update
 ---
+
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
-<ul id="results-container"></ul>
+    <input type="text" id="search-input" placeholder="search...">
+    <ul id="results-container"></ul>
 </div>
 
 <!-- Script pointing to search-script.js -->
@@ -21,6 +22,7 @@ SimpleJekyllSearch({
   json: '/search.json'
 })
 </script>
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
