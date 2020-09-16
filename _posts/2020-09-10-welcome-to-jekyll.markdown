@@ -11,7 +11,7 @@ categories: jekyll update
 </div>
 
 <!-- Script pointing to search-script.js -->
-<script src="C:\Users\risha\Source\Repos\repodoc\search-script.js" type="text/javascript"></script>
+<script src="/search-script.js" type="text/javascript"></script>
 
 <!-- Configuration -->
 <script>
