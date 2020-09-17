@@ -33,7 +33,7 @@ categories: jekyll update
           aria-activedescendant="jump-to-suggestion-repository-293818187"
           > -->
 
-<form method="get" action="https://github.com/search">
+<form method="get" action="https://github.com/rishabh-tft">
 
 <div>
 <input type="text"   name="q" size="25"
