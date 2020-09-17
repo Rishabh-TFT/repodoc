@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2020-09-10 13:50:04 +0530
 categories: jekyll update
 ---
-
+<!-- 
  <div class="header-search header-search-current js-header-search-current flex-auto  flex-self-stretch flex-md-self-auto mr-0 mr-md-3 mb-3 mb-md-0 scoped-search site-scoped-search js-site-search position-relative js-jump-to js-header-search-current-jump-to "
   role="combobox"
   aria-owns="jump-to-results"
@@ -13,7 +13,6 @@ categories: jekyll update
   aria-expanded="false"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> -->
       <form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="User" data-scope-id="68697988" data-scoped-search-url="https://github.com/Rishabh-TFT" data-unscoped-search-url="/search" action="/search?user=Rishabh-TFT" accept-charset="UTF-8" method="get">
       <label class="form-control input-sm header-search-wrapper p-0 header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center js-chromeless-input-container">
         <input type="text"
@@ -32,7 +31,16 @@ categories: jekyll update
           spellcheck="false"
           autocomplete="off"
           aria-activedescendant="jump-to-suggestion-repository-293818187"
-          >
+          > -->
+
+<form method="get" action="https://github.com/search">
+
+<div>
+<input type="text"   name="q" size="25"
+ maxlength="255" value="" />
+<input type="submit" value="Github Search" />
+</div>
+</form>
 
 <br><br>
 
